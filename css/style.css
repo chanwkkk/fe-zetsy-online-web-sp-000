@@ -20,8 +20,8 @@ body {
 	padding: 0 45px 20px;
 }
 
-.footer p{
-	font-size: 80%;
+footer p{
+	font-size: 0.8em;
 }
 
 /* Write all remaining styles here */
