@@ -58,6 +58,6 @@ h2{
 	border: 5px solid #ccc
 }
 
-.links:hover{
- border: 5px rgb(111,127,122) solid;
+.links img:hover{
+  border: 5px rgb(111,127,122) solid;
 }
