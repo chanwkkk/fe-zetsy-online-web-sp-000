@@ -39,10 +39,15 @@ h1:hover{
 	color: rgb(111,127,122);
 }
 
+.pic1 {
+	border: 5px rgb(152,173,166) solid;
+}
 h2{
 	color: #ccc;
 	font-size: 2em;
 }
+
+
 
 .link {
 	display: flex
