@@ -22,7 +22,7 @@ header:first{
 	font-size: 5em;
 	padding-bottom: 10px;
 }
-header{
+h1,h2{
 	color: #ccc
 }
 .link {
