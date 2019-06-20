@@ -7,7 +7,7 @@
 body {
 	background: #F3EBE9;
 	font-size: 100%;
-	font-family: 'Times New Roman', serif; 
+	font-family: 'Times New Roman', serif;
 }
 
 .wrapper {
@@ -18,3 +18,18 @@ body {
 }
 
 /* Write all remaining styles here */
+header:first{
+	font-size: 5em;
+	padding-bottom: 10px;
+}
+header{
+	color: #ccc
+}
+.link {
+	display: flex
+}
+
+.link img{
+	margin: 3px;
+	border: 5px solid #ccc
+}
