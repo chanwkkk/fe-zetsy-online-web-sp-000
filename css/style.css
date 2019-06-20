@@ -20,6 +20,10 @@ body {
 	padding: 0 45px 20px;
 }
 
+.footer{
+	font-size: 0.8em;
+}
+
 /* Write all remaining styles here */
 h1{
 
@@ -42,4 +46,8 @@ h2{
 .link img{
 	margin: 3px;
 	border: 5px solid #ccc
+}
+
+.link:hover{
+	
 }
